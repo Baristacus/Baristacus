@@ -1,3 +1,5 @@
+![Baristacus_Banner](https://github.com/Baristacus/Baristacus/assets/4930292/1c1d4b44-28cd-4aa1-aef9-dd05cbaa18ea)
+
 ### Hi there 👋
 
 <!--
